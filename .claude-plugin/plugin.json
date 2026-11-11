@@ -1,0 +1,12 @@
+{
+  "name": "formlab-enclosure-estimate",
+  "version": "1.0.0",
+  "description": "Оценка стоимости и сроков разработки и производства пластикового корпуса для электроники от Формлаба (formlab.ru): MCP-инструмент и skill.",
+  "author": { "name": "Formlab", "url": "https://formlab.ru" },
+  "homepage": "https://formlab.ru/articles/705-kalkulyator-proizvodstva-plastikovykh-korpusov-dlya-priborov",
+  "repository": "https://github.com/formlab-dev/enclosure-estimate",
+  "license": "MIT",
+  "keywords": ["enclosure", "housing", "injection-molding", "electronics", "industrial-design", "cost-estimate", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
