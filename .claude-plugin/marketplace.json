@@ -1,0 +1,11 @@
+{
+  "name": "formlab",
+  "owner": { "name": "Formlab", "url": "https://formlab.ru" },
+  "plugins": [
+    {
+      "name": "formlab-enclosure-estimate",
+      "source": "./",
+      "description": "Оценка стоимости и сроков разработки и производства пластикового корпуса для электроники (Формлаб)."
+    }
+  ]
+}
