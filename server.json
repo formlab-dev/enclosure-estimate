@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "io.github.formlab-dev/enclosure-estimate",
   "title": "Formlab enclosure estimate",
-  "description": "Cost and lead time to design and manufacture a custom plastic enclosure for electronics in Russia (Formlab).",
+  "description": "Cost and lead time estimate for a custom plastic electronics enclosure (Formlab, Russia).",
   "version": "1.0.0",
   "websiteUrl": "https://formlab.ru",
   "repository": { "url": "https://github.com/formlab-dev/enclosure-estimate", "source": "github" },
